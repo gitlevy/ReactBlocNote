@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Bloc Note in React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online Preview : https://tranquil-semifreddo-0a43ef.netlify.app
+
+##
 
 ## Available Scripts
 
